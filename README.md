@@ -1,4 +1,4 @@
-# Sindhi WordNet Tagging Dataset
+# Sindhi WordNet Dataset
 
 ## Developed By
 **Abdul Majid Bhurgri Institute of Language Engineering (AMBILE), Hyderabad**  
