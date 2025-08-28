@@ -47,4 +47,4 @@ This dataset is released under the Creative Commons Attribution-NonCommercial 4.
 ## Contact
 For any queries, collaboration opportunities, or contributions, please contact:
 
-**Email**: technicalteam@ambile.pk
+**Email**: datasets@sindh.ai
